@@ -2,6 +2,10 @@
 
 Nombre del plato: ....
 
+**Tiempo de preparación:** 45 minutos.
+
+**Porciones:** 4 personas.
+
 ## Ingredientes
 Pechuga de pollo
 Arroz
