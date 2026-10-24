@@ -7,20 +7,22 @@ Nombre del plato: ....
 **Porciones:** 4 personas.
 
 ## Ingredientes
-Pechuga de pollo
-Arroz
-Salchicha ranchera
-Tocineta
-Cebolla
-Ajo
-Pimenton 
-Tomate
-Zanahoria
-Arvejas
-Aceite
-Salsa de tomate
-Salsa de soya
-Comino, sal y pimienta
+
+- 2 tazas de arroz
+- 1 pechuga de pollo
+- 2 salchichas rancheras
+- 100 gramos de tocineta
+- 1 cebolla
+- 2 dientes de ajo
+- 1/2 pimentón
+- 2 tomates
+- 1 zanahoria
+- 1/2 taza de arvejas
+- 2 cucharadas de aceite
+- 2 cucharadas de salsa de tomate
+- 1 cucharada de salsa de soya
+- Sal, pimienta y comino al gusto
+- Agua suficiente para cocinar el arroz
 
 ## Preparación
 
