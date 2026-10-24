@@ -35,3 +35,7 @@ Nombre del plato: ....
 7. Añade el arroz y el agua necesaria para cocinarlo.
 8. Mezcla todo, tapa la olla y deja cocinar a fuego medio hasta que el arroz esté listo.
 9. Sirve caliente y disfruta.
+
+## Consejo final
+
+Para que el arroz quede más sabroso, sofríe bien el pollo con las verduras antes de agregar el arroz y prueba la sazón antes de dejarlo cocinar. También puedes ajustar la cantidad de salsa de soya según tu gusto.
