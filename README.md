@@ -1,0 +1,1 @@
+Este proyecto trata sobre un plato que podíamos escoger al azar. Debíamos explicar brevemente su origen y compartir nuestra propia receta.
