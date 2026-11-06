@@ -39,3 +39,6 @@ Nombre del plato: ....
 ## Consejo final
 
 Para que el arroz quede más sabroso, sofríe bien el pollo con las verduras antes de agregar el arroz y prueba la sazón antes de dejarlo cocinar. También puedes ajustar la cantidad de salsa de soya según tu gusto.
+
+
+Esta es una nueva línea
