@@ -18,3 +18,5 @@ Preparación:
 Tiempo: 5 minutos.
 
 Porciones: 2 vasos.
+
+Consejo: Dejala bastante tiempo en la nevera para que al momento de tomar este más fría y refrescante.
