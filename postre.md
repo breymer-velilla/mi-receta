@@ -37,3 +37,9 @@ Resultado: Un postre frío, cremoso, con un toque ácido de limón y una textura
 [recetasnestle.com.do](https://www.recetasnestle.com.do/recetas/carlota-de-limon-2?utm_source=chatgpt.com)
 
 Consejo: Déjalo toda la noche en la nevera para que las galletas se suavicen y las capas queden más firmes. 🍋
+
+### Tiempo de preparación:
+
+- Preparación: 15 minutos.
+- Refrigeración: 4 horas.
+- Porciones: 6 a 8 personas.
