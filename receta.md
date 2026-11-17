@@ -1,6 +1,6 @@
 # Mi receta favorita 
 
-Nombre del plato: ....
+# La mejor receta del mundo
 
 **Tiempo de preparación:** 45 minutos.
 
