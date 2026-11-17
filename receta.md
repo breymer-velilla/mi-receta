@@ -1,7 +1,7 @@
 # Mi receta favorita 
 
 
-# La mejor receta tradicional de mi familia
+# Receta editada desde GitHub
 
 **Tiempo de preparación:** 45 minutos.
 
