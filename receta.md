@@ -1,7 +1,8 @@
 # Mi receta favorita 
 
 
-# Receta editada desde mi computador
+
+# Receta editada desde GitHub
 
 **Tiempo de preparación:** 45 minutos.
 
