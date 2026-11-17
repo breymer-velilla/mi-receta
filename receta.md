@@ -1,6 +1,6 @@
 # Mi receta favorita 
 
-Nombre del plato: ....
+# Receta tradicional de mi familia: Arroz con pollo ranchero
 
 **Tiempo de preparación:** 45 minutos.
 
