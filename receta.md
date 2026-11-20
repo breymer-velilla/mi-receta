@@ -1,46 +1,14 @@
-# Mi receta favorita 
-
-
-
-# Receta editada desde GitHub
-
-**Tiempo de preparación:** 45 minutos.
-
-**Porciones:** 4 personas.
-
-## Ingredientes
-
-- 2 tazas de arroz
-- 1 pechuga de pollo
-- 2 salchichas rancheras
-- 100 gramos de tocineta
-- 1 cebolla
-- 2 dientes de ajo
-- 1/2 pimentón
-- 2 tomates
-- 1 zanahoria
-- 1/2 taza de arvejas
-- 2 cucharadas de aceite
-- 2 cucharadas de salsa de tomate
-- 1 cucharada de salsa de soya
-- Sal, pimienta y comino al gusto
-- Agua suficiente para cocinar el arroz
 
 ## Preparación
 
-1. Lava y pica la cebolla, el ajo, el pimentón, el tomate y la zanahoria.
-2. Corta la pechuga de pollo, la salchicha ranchera y la tocineta en trozos pequeños.
-3. En una olla, agrega un poco de aceite y sofríe la cebolla, el ajo, el tomate y el pimentón.
-4. Añade el pollo, la salchicha y la tocineta. Agrega sal, pimienta y comino al gusto.
-5. Incorpora la zanahoria y las arvejas, y mezcla bien los ingredientes.
-6. Agrega un poco de salsa de tomate y salsa de soya para darle sabor.
-7. Añade el arroz y el agua necesaria para cocinarlo.
-8. Mezcla todo, tapa la olla y deja cocinar a fuego medio hasta que el arroz esté listo.
-9. Sirve caliente y disfruta.
+1. Lava bien todas las verduras y corta la cebolla, el ajo, el pimentón, los tomates y la zanahoria en trozos pequeños.
+2. Corta la pechuga de pollo, las salchichas rancheras y la tocineta en cubos pequeños para que se cocinen de manera uniforme.
+3. En una olla grande, calienta las 2 cucharadas de aceite a fuego medio y sofríe la cebolla, el ajo, el tomate y el pimentón durante 5 minutos.
+4. Agrega el pollo y cocina durante unos 7 minutos. Después incorpora las salchichas y la tocineta.
+5. Añade la zanahoria y las arvejas. Mezcla todo y deja cocinar durante 3 minutos.
+6. Agrega las 2 cucharadas de salsa de tomate y la cucharada de salsa de soya. Condimenta con sal, pimienta y comino al gusto.
+7. Incorpora las 2 tazas de arroz y revuelve durante 2 minutos para que absorba el sabor de los ingredientes.
+8. Añade el agua necesaria, tapa la olla y cocina a fuego medio-bajo hasta que el arroz esté listo.
+9. Cuando el arroz esté cocido, apaga el fuego y déjalo reposar durante 5 minutos antes de servir.
 
-## Consejo final
-
-Para que el arroz quede más sabroso, sofríe bien el pollo con las verduras antes de agregar el arroz y prueba la sazón antes de dejarlo cocinar. También puedes ajustar la cantidad de salsa de soya según tu gusto.
-
-
-Esta es una nueva línea
+**Consejo:** Evita revolver demasiado el arroz mientras se cocina para que no quede pegajoso.
