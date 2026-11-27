@@ -8,6 +8,7 @@ Ingredientes:
 - 2 cucharadas de azúcar.
 - 1 taza de hielo.
 - ½ taza de agua.
+- - Coco rallado para decorar.
 
 Preparación:
 
@@ -20,3 +21,4 @@ Tiempo: 5 minutos.
 Porciones: 2 vasos.
 
 Consejo: Dejala bastante tiempo en la nevera para que al momento de tomar este más fría y refrescante.
+
